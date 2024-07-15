@@ -1,4 +1,4 @@
-module chi
+module exprog
 
 go 1.22.3
 

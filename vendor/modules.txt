@@ -1,4 +1,25 @@
+# github.com/go-andiamo/chioas v1.16.3
+## explicit; go 1.19
+github.com/go-andiamo/chioas
+github.com/go-andiamo/chioas/rapidoc_ui
+github.com/go-andiamo/chioas/swagger_ui
+github.com/go-andiamo/chioas/yaml
+# github.com/go-andiamo/splitter v1.2.5
+## explicit; go 1.18
+github.com/go-andiamo/splitter
+# github.com/go-andiamo/urit v1.2.1
+## explicit; go 1.18
+github.com/go-andiamo/urit
 # github.com/go-chi/chi/v5 v5.1.0
 ## explicit; go 1.14
 github.com/go-chi/chi/v5
 github.com/go-chi/chi/v5/middleware
+# github.com/kr/pretty v0.3.1
+## explicit; go 1.12
+# golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
+## explicit; go 1.20
+golang.org/x/exp/constraints
+golang.org/x/exp/slices
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
